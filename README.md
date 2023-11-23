@@ -1,1 +1,0 @@
-We are Emma Create Co., Ltd.
