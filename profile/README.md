@@ -11,7 +11,7 @@
 - steam
   - https://store.steampowered.com/app/2926310/_/
 - DLSite
-  - 7月下旬 発売予定
+  - https://www.dlsite.com/home/work/=/product_id/RJ01210955.html
 
 #### 🐋ヘレの海底都市計画 ～箱庭に空気を植えるSLG～
 
